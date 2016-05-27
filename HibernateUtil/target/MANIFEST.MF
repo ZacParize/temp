@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pdv
+Class-Path: lib/ojdbc-14.0.0.jar lib/hibernate-jpa-2.1-api-1.0.0.Final
+ .jar lib/hibernate-core-4.3.8.Final.jar lib/hibernate-commons-annotat
+ ions-4.0.5.Final.jar lib/dom4j-1.6.1.jar lib/xml-apis-1.0.b2.jar lib/
+ jboss-logging-3.3.0.Final.jar
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7.0_45
+Main-Class: App
+
